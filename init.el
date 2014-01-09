@@ -12,3 +12,7 @@
 
 ;; evil-nerd-commenter
 (live-load-config-file "evil-nerd-commenter-conf.el")
+
+;;(live-load-config-file "evil-rebellion.el")
+;;
+(evil-mode 1)

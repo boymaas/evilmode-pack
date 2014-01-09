@@ -10,3 +10,6 @@
 [submodule "vendor/submodules/evil-nerd-commenter"]
 	path = vendor/submodules/evil-nerd-commenter
 	url = https://github.com/redguardtoo/evil-nerd-commenter.git
+[submodule "vendor/submodules/evil-rebellion"]
+	path = vendor/submodules/evil-rebellion
+	url = https://github.com/tarleb/evil-rebellion.git

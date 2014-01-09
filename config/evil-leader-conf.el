@@ -3,7 +3,7 @@
 (live-add-pack-lib "evil-leader")
 
 ;; set the leader key to comma
-(setq evil-leader/leader "," evil-leader/in-all-states t)
+(setq evil-leader/leader ";" evil-leader/in-all-states t)
 
 (require 'evil-leader)
 
